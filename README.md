@@ -9,6 +9,7 @@
     <img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/telegra-banner.jpg" alt="Donate with PayPal" width="200"/>
   </a>
 </p>
+<p align="center">Follow my Telegram channel, where you'll find updates and pre-release versions with new features</p>
 
 <p align="center">
     <ins><strong>IF YOU LIKE, BUY ME A COFFEE TO SUPPORT THE APP DEVELOPMENT</strong></ins>
