@@ -6,6 +6,7 @@
     <img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/telegra-banner.jpg" alt="Donate with PayPal" width="200"/>
   </a>
 </p>
+<p align="center">Segui il mio canale telegram dove troverai aggiornamenti e versioni pre-release con nuove funzioni</p>
 
 <p align="center">
     <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
