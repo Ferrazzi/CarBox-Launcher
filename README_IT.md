@@ -21,3 +21,7 @@ Tocca [qui](https://github.com/Ferrazzi/CarBox-Launcher/releases) per scaricare 
 Un nuovo launcher Android per la tua auto. Scarica ed installa CarBoxLauncher e prova la nuova esperienza di launcher a widget.
 Il launcher è in BETA e in sviluppo, ogni settimana novità!!!!
 Imposta sulla home più riquadri con diverse funzionalità!!!!
+
+<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot1.png" alt="Screenshot 1" width="400"/>
+<img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot2.png" alt="Screenshot 2" width="400"/></p>
+<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot3png" alt="Screenshot 3" width="400"/></p>
