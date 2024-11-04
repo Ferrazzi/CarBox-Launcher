@@ -16,4 +16,4 @@
   </a>
 </p>
 
-Tap [here](https://github.com/Ferrazzi/CarBox-Launcher/releases) to download the latest version of CarBox Launcher.
+Tocca [qui](https://github.com/Ferrazzi/CarBox-Launcher/releases) per scaricare l'ultima versione di CarBox Companion
