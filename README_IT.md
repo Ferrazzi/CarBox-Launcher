@@ -25,4 +25,4 @@ Imposta sulla home più riquadri con diverse funzionalità!!!!
 
 <p align="center"><img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot1.png" alt="Screenshot 1" width="400"/>
 <img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot2.png" alt="Screenshot 2" width="400"/></p>
-<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot3png" alt="Screenshot 3" width="400"/></p>
+<p align="center"><img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Screenshot3.png" alt="Screenshot 3" width="400"/></p>
