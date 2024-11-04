@@ -17,3 +17,7 @@
 </p>
 
 Tocca [qui](https://github.com/Ferrazzi/CarBox-Launcher/releases) per scaricare l'ultima versione di CarBox Companion
+
+Un nuovo launcher Android per la tua auto. Scarica ed installa CarBoxLauncher e prova la nuova esperienza di launcher a widget.
+Il launcher è in BETA e in sviluppo, ogni settimana novità!!!!
+Imposta sulla home più riquadri con diverse funzionalità!!!!
