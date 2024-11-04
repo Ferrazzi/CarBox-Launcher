@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <ins><strong>IF YOU LIKE, BUY ME A COFFEE TO SUPPORT THE APP DEVELOPMENT</strong></ins>
+    <ins><strong>SE TI VA OFFRIMI UN CAFFE PER SOSTENERE LO SVILUPPO DELL'APPLICAZIONE</strong></ins>
 </p>
 <p align="center">
   <a href="https://www.paypal.com/donate/?business=3LPTNPJ2RV6U8&no_recurring=0&item_name=Buy+me+a+coffee+if+you+like+to+contribute+to+the+app+development&currency_code=EUR">
