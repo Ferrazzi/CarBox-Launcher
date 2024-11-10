@@ -4,6 +4,12 @@
 <h2></h2>
 <p align="center"><img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/Logo.png" alt="CarBox Launcher" width="600"/></p>
 </p>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Ferrazzi}/count.svg" /></p> 
+<br></div>
+
 <p align="center">
   <a href="https://t.me/CarBoxLauncher">
     <img src="https://github.com/Ferrazzi/CarBox-Launcher/blob/main/telegra-banner.jpg" alt="Donate with PayPal" width="200"/>
